@@ -14,6 +14,8 @@
     align-items: baseline;
 }
 .sites>a {
-    color: black;
+    color: grey;
     text-decoration: none;
+    font-size: 15px;
+    font-weight: 400;
 }

@@ -2,6 +2,9 @@ body{
     padding: 2% 10%;
     height: 100vh;
 }
+*{
+    font-family: 'Kumbh Sans', sans-serif;
+}
 .App{
     height: 100%;
 }
