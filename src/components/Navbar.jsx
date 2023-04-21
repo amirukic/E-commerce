@@ -1,4 +1,6 @@
 import Logo from "../images/logo.svg";
+import Cart from "../images/icon-cart.svg"
+import Avatar from "../images/image-avatar.png"
 import "./Navbar.css";
 function Navbar() {
   return (
@@ -10,6 +12,10 @@ function Navbar() {
         <a href="#">Women</a>
         <a href="#">About</a>
         <a href="#">Contact</a>
+      </div>
+      <div className="profile">
+        <img src={Cart} alt="Cart" id="cart" />
+        <img src={Avatar} alt="Avatar" style={{height: "40px"}} />
       </div>
     </div>
   );
