@@ -11,7 +11,7 @@ function Navbar() {
         <a href="#">Man</a>
         <a href="#">Women</a>
         <a href="#">About</a>
-        <a href="#">Contact</a>
+        <a href="#">Contacts</a>
       </div>
       <div className="profile">
         <img src={Cart} alt="Cart" id="cart" />
