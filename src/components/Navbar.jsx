@@ -15,7 +15,7 @@ function Navbar() {
       </div>
       <div className="profile">
         <img src={Cart} alt="Cart" id="cart" />
-        <img src={Avatar} alt="Avatar" style={{height: "40px"}} />
+        <img src={Avatar} alt="Avatar" style={{height: "39px"}} />
       </div>
     </div>
   );
